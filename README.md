@@ -1,4 +1,6 @@
 ## Hi there 👋
+### grade 12
+#### I want to learn basics about programming
 
 <!--
 **laynamrel/laynamrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
